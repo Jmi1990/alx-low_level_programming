@@ -1,8 +1,11 @@
-#include<stdio.h>
+
+#include <stdio.h>
+
 /**
- * main - entry point
+ * main - Prints "with proper grammar, but the outcome is
+ *                a piece of art," followed by a new line.
  *
- * return; always 0 (success)
+ * Return: Always 0.
  */
 int main(void)
 {
